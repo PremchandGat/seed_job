@@ -1,4 +1,4 @@
-job("deploy on k8s") {
+job("deploy on k8s11") {
 	description()
 	keepDependencies(false)
 	disabled(false)
